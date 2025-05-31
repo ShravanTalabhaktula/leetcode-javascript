@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+
+# Coverage reports
+coverage/
+
+# Environment files
+.env
+.env.local
+
+# Jest cache
+.jest/
