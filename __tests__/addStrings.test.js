@@ -1,4 +1,4 @@
-import { addStrings } from '../addStrings.js';
+import { addStrings } from '../code/addStrings';
 
 test('add small numbers correctly', () => {
   expect(addStrings('123', '456')).toBe('579');
